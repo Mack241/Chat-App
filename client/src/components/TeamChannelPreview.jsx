@@ -15,7 +15,7 @@ const TeamChannelPreview = ({ channel, type, setActiveChannel, setIsCreating, se
         const members = Object.values(channel.state.members).filter(({ user }) => user.id !== client.userID)
 
         return (
-            <div className='channel-previre__item single'>
+            <div className='channel-preview__item single'>
                 <Avatar 
                     image={members[0]?.user?.image}
                     name={members[0]?.user?.fullName || members[0]?.user?.id}
