@@ -24,9 +24,9 @@ https://medical-pager-mayukh.netlify.app - **App hosted here.**
 
 **1. Login Screen**
 
-![alt text](https://github.com/Mack241/Chat-App/blob/ecc098e45e40d9477d2b3d840687a392938dba6c/client/LoginScreen.PNG)
+![alt text](https://github.com/Mack241/Chat-App/blob/ecc098e45e40d9477d2b3d840687a392938dba6c/client/LoginScreen.PNG?raw=true)
 
 
 **2.Chat Screen**
 
-![alt text](https://github.com/Mack241/Chat-App/blob/ecc098e45e40d9477d2b3d840687a392938dba6c/client/ChatScreen.PNG)
+![alt text](https://github.com/Mack241/Chat-App/blob/ecc098e45e40d9477d2b3d840687a392938dba6c/client/ChatScreen.PNG?raw=true)
